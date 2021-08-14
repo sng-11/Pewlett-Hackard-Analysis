@@ -28,8 +28,8 @@ To get the number of qualified employees who are eligible to mentor the new gene
 
 <img width="355" alt="Screen Shot 2021-08-14 at 5 13 32 AM" src="https://user-images.githubusercontent.com/84816495/129441153-f53aa080-657e-4208-8777-8b9d0868841f.png">
 
-This gave the count of 1549 employees who are eligible to become mentors. Of this 1549, there are the following breakdown of titles:
+This gave the count of 1549 employees who are eligible to become mentors. Of this 1549, there are the following breakdown of titles and the code required for the query:
 
 <img width="349" alt="Screen Shot 2021-08-14 at 5 21 12 AM" src="https://user-images.githubusercontent.com/84816495/129441332-f2b02d8e-2028-4bcc-98f5-0a85894b6d39.png">
 
-As such 
+If it is assumed that PH would hire the exact amount of new generation of employees to fill in retiring employees, then there would not be enough mentors if program operates in a 1:1 system. For example, there will be 12243 staff retiring and an assumed 12254 new employees being hired to fill that void. However, there are only 300 staff employees who are eligible to mentor. Each mentor will need to have 40 mentees to have this program work. Therefore, __there is not enough eligible mentors for this program__.
