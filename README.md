@@ -19,6 +19,7 @@ PH is committed to also ensuring that its employees can receive mentorship throu
 ## Summary
 
 _How many roles will need to be filled as the "silver tsunami" begins to make an impact?_
+
 From the retiring_titles table, there are 90398 employees retiring and that number of positions should be filled in order to maintain the current rate of productivity in the company.
 
 _Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?_
