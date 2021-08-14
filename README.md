@@ -24,3 +24,10 @@ From the retiring_titles table, there are 90398 employees retiring and that numb
 
 2. _Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?_
 
+To get the number of qualified employees who are eligible to mentor the new generation, the following query was ran:
+SELECT COUNT(me.emp_no)
+FROM mentorship_eligibility as me
+
+This gave the count of 1549 employees who are eligible to become mentors. 
+
+To get the number of potential mentees, an 
