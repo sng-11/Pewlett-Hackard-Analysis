@@ -26,9 +26,10 @@ From the retiring_titles table, there are 90398 employees retiring and that numb
 
 To get the number of qualified employees who are eligible to mentor the new generation, the following query was ran:
 
-SELECT COUNT(me.emp_no)
-FROM mentorship_eligibility as me
+<img width="355" alt="Screen Shot 2021-08-14 at 5 13 32 AM" src="https://user-images.githubusercontent.com/84816495/129441153-f53aa080-657e-4208-8777-8b9d0868841f.png">
 
-This gave the count of 1549 employees who are eligible to become mentors. 
+This gave the count of 1549 employees who are eligible to become mentors. Of this 1549, there are the following breakdown of titles:
 
-To get the number of potential mentees, an 
+<img width="349" alt="Screen Shot 2021-08-14 at 5 21 12 AM" src="https://user-images.githubusercontent.com/84816495/129441332-f2b02d8e-2028-4bcc-98f5-0a85894b6d39.png">
+
+As such 
